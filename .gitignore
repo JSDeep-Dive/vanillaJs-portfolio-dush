@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Cursor
+.vscode/
+*.code-workspace
+
+# Log
+*.log
+
+# Environment
+.env
+.env.*
+
+# node_modules
+node_modules/
+
+# Build
+dist/
+build/
+
+# OS Cache
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
